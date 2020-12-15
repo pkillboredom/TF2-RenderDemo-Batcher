@@ -1,0 +1,10 @@
+{
+    "hl2Path": "S:\\SteamLibrary\\steamapps\\common\\Team Fortress 2\\hl2.exe",
+    "demoDirectory": "S:\\SteamLibrary\\steamapps\\common\\Team Fortress 2\\tf\\demos",
+    "exportPrefix": "G:\\TF2 Render",
+    "profile": "both",
+    "overwrite": "yes",
+    "launchOptions": "-window -width 2560 -height 1440",
+    "windowState": "hidden",
+    "preRecordCommand": ""
+}
